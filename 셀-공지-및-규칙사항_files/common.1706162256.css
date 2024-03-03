@@ -6533,7 +6533,6 @@ border: none;
 .overflow-x-scrollaos {overflow-x: hidden;}
 /*.element.aos-init[data-aos^=fade][data-aos^=fade] {margin-left: 0px;}*/
 /*.element.aos-init:not(.aos-animate):after{ position:fixed}*/
-.element.aos-init { visibility: hidden !important;}
 .element.aos-init.aos-animate { visibility: visible !important; }
 .element.aos-init.aos-hidden { visibility: hidden !important; }
 .element.aos-init.aos-hidden * { visibility: hidden !important; }
